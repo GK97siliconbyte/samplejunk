@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Item 1",
+        "description": "This is the description for Item 1.",
+        "history": "Item 1 was created on January 1, 2023.",
+        "videoLink": "https://example.com/video1"
+    },
+    {
+        "title": "Item 2",
+        "description": "This is the description for Item 2.",
+        "history": "Item 2 has a rich history dating back to February 14, 2024.",
+        "videoLink": "https://example.com/video2"
+    }
+]
