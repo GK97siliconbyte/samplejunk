@@ -1,9 +1,9 @@
 {
   "country_list": [
     {
-      "name": "India",
-      "iso_code": "IN",
-      "code": "INR"
+      "Name": "India",
+      "Iso_code": "IN",
+      "Code": "INR"
     },
     {
       "name": "Japan",
