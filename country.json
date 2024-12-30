@@ -1,0 +1,159 @@
+{
+  "country_list": [
+    {
+      "name": "India",
+      "iso_code": "IN",
+      "code": "INR"
+    },
+    {
+      "name": "Japan",
+      "iso_code": "JP",
+      "code": "JPY"
+    },
+    {
+      "name": "United States",
+      "iso_code": "US",
+      "code": "USD"
+    },
+    {
+      "name": "Germany",
+      "iso_code": "DE",
+      "code": "EUR"
+    },
+    {
+      "name": "Australia",
+      "iso_code": "AU",
+      "code": "AUD"
+    },
+    {
+      "name": "Canada",
+      "iso_code": "CA",
+      "code": "CAD"
+    },
+    {
+      "name": "Brazil",
+      "iso_code": "BR",
+      "code": "BRL"
+    },
+    {
+      "name": "Mexico",
+      "iso_code": "MX",
+      "code": "MXN"
+    },
+    {
+      "name": "United Kingdom",
+      "iso_code": "GB",
+      "code": "GBP"
+    },
+    {
+      "name": "France",
+      "iso_code": "FR",
+      "code": "EUR"
+    },
+    {
+      "name": "Italy",
+      "iso_code": "IT",
+      "code": "EUR"
+    },
+    {
+      "name": "China",
+      "iso_code": "CN",
+      "code": "CNY"
+    },
+    {
+      "name": "Russia",
+      "iso_code": "RU",
+      "code": "RUB"
+    },
+    {
+      "name": "South Africa",
+      "iso_code": "ZA",
+      "code": "ZAR"
+    },
+    {
+      "name": "South Korea",
+      "iso_code": "KR",
+      "code": "KRW"
+    },
+    {
+      "name": "Argentina",
+      "iso_code": "AR",
+      "code": "ARS"
+    },
+    {
+      "name": "Spain",
+      "iso_code": "ES",
+      "code": "EUR"
+    },
+    {
+      "name": "Turkey",
+      "iso_code": "TR",
+      "code": "TRY"
+    },
+    {
+      "name": "Sweden",
+      "iso_code": "SE",
+      "code": "SEK"
+    },
+    {
+      "name": "Norway",
+      "iso_code": "NO",
+      "code": "NOK"
+    },
+    {
+      "name": "Denmark",
+      "iso_code": "DK",
+      "code": "DKK"
+    },
+    {
+      "name": "Finland",
+      "iso_code": "FI",
+      "code": "EUR"
+    },
+    {
+      "name": "Poland",
+      "iso_code": "PL",
+      "code": "PLN"
+    },
+    {
+      "name": "Belgium",
+      "iso_code": "BE",
+      "code": "EUR"
+    },
+    {
+      "name": "Netherlands",
+      "iso_code": "NL",
+      "code": "EUR"
+    },
+    {
+      "name": "Switzerland",
+      "iso_code": "CH",
+      "code": "CHF"
+    },
+    {
+      "name": "Austria",
+      "iso_code": "AT",
+      "code": "EUR"
+    },
+    {
+      "name": "Greece",
+      "iso_code": "GR",
+      "code": "EUR"
+    },
+    {
+      "name": "New Zealand",
+      "iso_code": "NZ",
+      "code": "NZD"
+    },
+    {
+      "name": "Saudi Arabia",
+      "iso_code": "SA",
+      "code": "SAR"
+    },
+    {
+      "name": "United Arab Emirates",
+      "iso_code": "AE",
+      "code": "AED"
+    }
+  ]
+}
